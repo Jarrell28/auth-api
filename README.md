@@ -6,11 +6,11 @@
 
 ## Links and Resources
 
-[Deployed Link](https://jarrell-bearer-auth.herokuapp.com/)
+[Deployed Link](https://dashboard.heroku.com/apps/jarrell-auth-api)
 
-[Github Actions](https://github.com/Jarrell28/bearer-auth/actions)
+[Github Actions](https://github.com/Jarrell28/auth-api/actions)
 
-[Pull Requests](https://github.com/Jarrell28/bearer-auth/pull/1)
+[Pull Requests](https://github.com/Jarrell28/auth-api/pull/1)
 
 ## Setup
 
