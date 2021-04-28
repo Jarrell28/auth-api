@@ -1,6 +1,6 @@
-# LAB - Class 07
+# LAB - Class 08
 
-## Bearer Auth
+## Auth API
 
 ## Jarrell Houston
 
@@ -33,7 +33,7 @@
 
 ## UML
 
-![image](https://user-images.githubusercontent.com/33704616/116327770-205b1700-a78d-11eb-80a8-beb1b9b84f8b.png)
+![image](https://user-images.githubusercontent.com/33704616/116482232-62965e00-a84a-11eb-8970-5f5fb784ff0e.png)
 
 
 
