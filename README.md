@@ -6,7 +6,7 @@
 
 ## Links and Resources
 
-[Deployed Link](https://dashboard.heroku.com/apps/jarrell-auth-api)
+[Deployed Link](https://jarrell-auth-api.herokuapp.com/)
 
 [Github Actions](https://github.com/Jarrell28/auth-api/actions)
 
